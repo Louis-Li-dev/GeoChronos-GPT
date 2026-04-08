@@ -1,0 +1,19 @@
+# GRC4 project dependencies
+# Note: CUDA is used if available. Install a CUDA-enabled PyTorch build when running on GPU.
+# Example for CUDA 12.1:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+pyarrow
+scikit-learn
+tqdm
+python-dotenv
+reverse_geocoder
+transformers
+torch
+torch-geometric
+geo_tools
